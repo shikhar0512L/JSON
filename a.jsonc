@@ -1,0 +1,19 @@
+
+
+{
+    "code with shikhar":"200000000", //String operator
+    "i":3,  //integer
+    "d":3.54,  //Decimal
+    //Booleans
+    "t":true,
+    "f":false,
+    "n":null,
+
+    "$schema":3
+
+}
+
+//JSON RULES : 1.ALWAYS USE {}
+//2.Always use double cutes  [""]
+//3.Don't create new curly bracket
+//4.It is used for maintaining data.
